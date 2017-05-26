@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/colinscally/Projects/Battle/Battle2/intro_to_the_web_thursday/battle/app.rb": [
+      "/Users/colinscally/Projects/Battle/Battle2/battle/app.rb": [
         1,
         1,
         1,
@@ -42,7 +42,7 @@
         null,
         null
       ],
-      "/Users/colinscally/Projects/Battle/Battle2/intro_to_the_web_thursday/battle/lib/player.rb": [
+      "/Users/colinscally/Projects/Battle/Battle2/battle/lib/player.rb": [
         null,
         1,
         null,
@@ -59,7 +59,7 @@
         null,
         null
       ],
-      "/Users/colinscally/Projects/Battle/Battle2/intro_to_the_web_thursday/battle/lib/game.rb": [
+      "/Users/colinscally/Projects/Battle/Battle2/battle/lib/game.rb": [
         1,
         null,
         1,
@@ -84,7 +84,7 @@
         null,
         null
       ],
-      "/Users/colinscally/Projects/Battle/Battle2/intro_to_the_web_thursday/battle/spec/features/attack_players_spec.rb": [
+      "/Users/colinscally/Projects/Battle/Battle2/battle/spec/features/attack_players_spec.rb": [
         1,
         1,
         1,
@@ -115,7 +115,7 @@
         null,
         null
       ],
-      "/Users/colinscally/Projects/Battle/Battle2/intro_to_the_web_thursday/battle/spec/features/enter_names_spec.rb": [
+      "/Users/colinscally/Projects/Battle/Battle2/battle/spec/features/enter_names_spec.rb": [
         null,
         null,
         1,
@@ -128,7 +128,7 @@
         null,
         null
       ],
-      "/Users/colinscally/Projects/Battle/Battle2/intro_to_the_web_thursday/battle/spec/features/hit_points_spec.rb": [
+      "/Users/colinscally/Projects/Battle/Battle2/battle/spec/features/hit_points_spec.rb": [
         null,
         null,
         1,
@@ -139,7 +139,7 @@
         null,
         null
       ],
-      "/Users/colinscally/Projects/Battle/Battle2/intro_to_the_web_thursday/battle/spec/game_spec.rb": [
+      "/Users/colinscally/Projects/Battle/Battle2/battle/spec/game_spec.rb": [
         1,
         null,
         1,
@@ -183,7 +183,7 @@
         null,
         null
       ],
-      "/Users/colinscally/Projects/Battle/Battle2/intro_to_the_web_thursday/battle/spec/player_spec.rb": [
+      "/Users/colinscally/Projects/Battle/Battle2/battle/spec/player_spec.rb": [
         1,
         null,
         1,
@@ -201,6 +201,6 @@
         null
       ]
     },
-    "timestamp": 1495730747
+    "timestamp": 1495789601
   }
 }
